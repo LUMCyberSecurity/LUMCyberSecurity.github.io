@@ -5,6 +5,8 @@ Welcome to the Loyola University Maryland Cyber Security Club website
 This page serves as our test bench for anything we want to make public and to help individuals gain usefull knowledge about webdesign too
 
 # Set up for work
+  1.1.0. If you havent already made a github account please do so.
+
   1. If you havent been added to the repository please email me (Javon) at jckitson@loyola.edu or Christina at cmrusso@loyola.edu   and we can add you.
   
   2. Once you're added please check your email and join the group
