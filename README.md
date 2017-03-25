@@ -21,5 +21,10 @@ This page serves as our test bench for anything we want to make public and to he
 
    6. hit control S on the document you edited.
 
-   7. click on the third icon on the left of VS Code. in the explorer bare next to the icons their are three bullets click those and press
+   7. click on the third icon on the left of VS Code. in the explorer bare next to the icons their are three bullets click those and press commit all ps you can commit without a message.
+
+   8. PRESS PUSH this is what actually makes the changes to the existing code and will be pushing to the master copy. you should be able to see your changes on https://lumcybersecurity.github.io/ it may ask for your log in which ias supposed to happen
+
+   9. to get the most update version of the code repeat step 7 except click pull.
+
 # Design Brief
