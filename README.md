@@ -28,3 +28,8 @@ This page serves as our test bench for anything we want to make public and to he
    9. to get the most update version of the code repeat step 7 except click pull.
 
 # Design Brief
+
+  Color Scheme:
+
+  Font Families:
+
